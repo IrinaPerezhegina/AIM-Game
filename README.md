@@ -1,3 +1,3 @@
 # AIM-Game
-## Сыграть можно перейдя по ссылке ниже:
+### Сыграть можно, перейдя по ссылке ниже:
 # https://irinaperezhegina.github.io/AIM-Game/
